@@ -74,6 +74,7 @@ body{
   height: 60%;
   list-style: none;
   padding: 0;
+  overflow-y: scroll;
 }
 .item{
   background-color: var(--color-white);
