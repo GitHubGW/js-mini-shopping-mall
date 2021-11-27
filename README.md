@@ -2,6 +2,8 @@
 
 ## 🔗 Demo
 
+https://githubgw.github.io/js-mini-shopping-mall
+
 ## 🖥 Preview
 
 <img src="preview1.png">
