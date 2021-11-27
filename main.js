@@ -1,5 +1,5 @@
 const handleFetch = async () => {
-  const { items } = await (await fetch("js-mini-shopping-mall/data/data.json")).json();
+  const { items } = await (await fetch("/js-mini-shopping-mall/data/data.json")).json();
   handleDisplayItems(items);
   handleSetEventListeners(items);
 };
